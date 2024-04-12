@@ -1,0 +1,17 @@
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\bin\Debug\net6.0-windows\WinFormsApp Task 3 Anket.exe
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\bin\Debug\net6.0-windows\WinFormsApp Task 3 Anket.deps.json
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\bin\Debug\net6.0-windows\WinFormsApp Task 3 Anket.runtimeconfig.json
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\bin\Debug\net6.0-windows\WinFormsApp Task 3 Anket.dll
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\bin\Debug\net6.0-windows\WinFormsApp Task 3 Anket.pdb
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\WinFormsApp_Task_3_Anket.Form1.resources
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\WinFormsApp_Task_3_Anket.Properties.Resources.resources
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\WinFormsApp Task 3 Anket.csproj.GenerateResource.cache
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\WinFormsApp Task 3 Anket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\WinFormsApp Task 3 Anket.AssemblyInfoInputs.cache
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\WinFormsApp Task 3 Anket.AssemblyInfo.cs
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\WinFormsApp Task 3 Anket.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\WinFormsApp Task 3 Anket.dll
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\refint\WinFormsApp Task 3 Anket.dll
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\WinFormsApp Task 3 Anket.pdb
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\WinFormsApp Task 3 Anket.genruntimeconfig.cache
+C:\Users\Muhammad\source\repos\WinFormsApp Task 3 Anket\WinFormsApp Task 3 Anket\obj\Debug\net6.0-windows\ref\WinFormsApp Task 3 Anket.dll
